@@ -1,0 +1,18 @@
+{
+  "name": "unosquare-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap",
+    "test:watch": "tap --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^2.14.0",
+    "fastify-cors": "^3.0.3",
+    "tap": "^14.10.7"
+  }
+}
